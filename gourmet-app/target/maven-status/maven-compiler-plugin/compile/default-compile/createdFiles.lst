@@ -1,0 +1,3 @@
+com\gourmetoven\gourmetapp\controller\RecipeController.class
+com\gourmetoven\gourmetapp\security\ApplicationSecurityConfig.class
+com\gourmetoven\gourmetapp\GourmetAppApplication.class
